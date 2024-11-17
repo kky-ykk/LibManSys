@@ -31,4 +31,4 @@ This is a **MERN stack** application where users can log in, view books, and iss
 
 ## Home page
 
-<img src="home.png" alt="Assignment 5" width="400"/>
+<img src="images/home.png" alt="Assignment 5" width="400"/>
